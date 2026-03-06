@@ -1,3 +1,76 @@
+File:
+
+* [Wave 1 personalized outreach workbook](sandbox:/mnt/data/vet_wave1_personalized_outreach.xlsx)
+
+## What’s inside
+
+### `Wave1_Personalized`
+
+For each of the top 25 clinics:
+
+* email
+* phone
+* website
+* why-this-clinic-now note
+* personalized opener
+* 4 subject lines
+* 4 full email bodies
+
+### `Sequence_Notes`
+
+The send rules:
+
+* verify first
+* use a warmed sending domain
+* cadence: Day 1 / 3 / 6 / 10
+* no calendar link in email 1
+* CTA is just: **“Reply YES and I’ll send the draft link.”**
+
+## My blunt recommendation
+
+Do **not** send all 25 immediately.
+
+Send **8 first**. Watch:
+
+* bounce rate
+* open rate
+* reply rate
+* whether “Reply YES” is too much friction
+
+If replies are weak, the fix is not “more volume.” The fix is usually:
+
+* stronger subject line
+* sharper first sentence
+* more concrete promise
+
+## Best first 8 to send
+
+Start with the cleanest independent-looking general-practice fits from the list:
+
+1. The Madison Veterinary Hospital
+2. Springfield Animal Hospital
+3. All Animals Veterinary Hospital
+4. Wright Animal Hospital
+5. Valley Animal Hospital
+6. Country Veterinary Hospital
+7. Brick Town Veterinary Hospital
+8. Hawks Prairie Veterinary Hospital
+
+Hold the weaker/less ideal profiles until later:
+
+* UF Small Animal Hospital
+* anything academic
+* anything clearly corporate/group-owned if replies lag
+
+## The actual objective
+
+Not demos. Not “interest.”
+
+You want **YES replies** so you can send a prefilled setup link asynchronously and move them toward trial + paid fast-start.
+
+
+
+------
 * [Scored outreach workbook (.xlsx)](sandbox:/mnt/data/vet_outreach_scored_framework.xlsx)
 * [Original 100-contact CSV](sandbox:/mnt/data/vet_clinic_contacts_100_public_emails.csv)
 
